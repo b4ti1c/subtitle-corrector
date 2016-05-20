@@ -1,0 +1,23 @@
+{
+  "name": "subtitle-corrector",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/batilc1/subtitle-corrector.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/batilc1/subtitle-corrector/issues"
+  },
+  "homepage": "https://github.com/batilc1/subtitle-corrector#readme",
+  "dependencies": {
+    "detect-character-encoding": "^0.2.1",
+    "iconv": "^2.2.0"
+  }
+}
